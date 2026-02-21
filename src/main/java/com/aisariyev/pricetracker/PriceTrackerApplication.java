@@ -1,4 +1,4 @@
-package com.aisariyev.price_tracker;
+package com.aisariyev.pricetracker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

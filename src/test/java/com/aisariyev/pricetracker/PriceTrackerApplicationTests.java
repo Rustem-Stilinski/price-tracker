@@ -1,4 +1,4 @@
-package com.aisariyev.price_tracker;
+package com.aisariyev.pricetracker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

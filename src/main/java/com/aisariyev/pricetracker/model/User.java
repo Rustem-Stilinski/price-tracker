@@ -1,4 +1,4 @@
-package com.aisariyev.price_tracker.model;
+package com.aisariyev.pricetracker.model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Email;
